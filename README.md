@@ -1,8 +1,7 @@
 
 # ADS8634 user space driver 
 
-This project provides a user-space application for interacting with the ADS8634 analog-to-digital converter (ADC) via SPI. The application allows users to read from and write to registers of the ADS8634, configure settings, and switch between different pages.
-
+This project provides a user-space application for interacting with the ADS8634 analog-to-digital converter (ADC) via SPI. 
 ## Features
 
 - **Read from a register**
